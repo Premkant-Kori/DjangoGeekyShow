@@ -1,1 +1,1 @@
-# DjangoGeekyShow
+# DjangoGeekyShows
